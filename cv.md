@@ -28,7 +28,10 @@ At the moment I am working hard to start my professional way as a developer. My 
 
 ### Education
 
-|           |                                        |                                                                                        |                    |
+|Years      |Educational Institution                 |Course                                                                                  |Specialty           |
 |-----------|----------------------------------------|----------------------------------------------------------------------------------------|--------------------|
 |[2011-2016]|Belarusian National Technical University| Automotive and Tractor Faculty - Hydropneumatic Automation and Hydropneumatic Drives   | Mechanical Engineer|
 |[2018]     |EPAM Training Center                    |Test Automation                                                                         | QA engineer        |
+
+####  English : A2 Level
+At the moment I am trying to improve my knowledge working on my own and with a private tutor.
