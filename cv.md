@@ -19,3 +19,8 @@ At the moment I am working hard to start my professional way as a developer. My 
 *   BEM
 *   Bootstrap 4
 *   Git
+
+### Code examples
+ **Old git  :**  [github - self-education](https://github.com/kasarevich/)
+ 
+ **New git :**  [github - training (actual)](https://github.com/alexkosarevski/)
