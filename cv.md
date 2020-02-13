@@ -18,9 +18,17 @@ At the moment I am working hard to start my professional way as a developer. My 
 *   Grid
 *   BEM
 *   Bootstrap 4
+*   Java
 *   Git
 
 ### Code examples
  **Old git  :**  [github - self-education](https://github.com/kasarevich/)
  
  **New git :**  [github - training (actual)](https://github.com/alexkosarevski/)
+
+### Education
+
+|           |                                        |                                                                                        |                    |
+|-----------|----------------------------------------|----------------------------------------------------------------------------------------|--------------------|
+|[2011-2016]|Belarusian National Technical University| Automotive and Tractor Faculty - Hydropneumatic Automation and Hydropneumatic Drives   | Mechanical Engineer|
+|[2018]     |EPAM Training Center                    |Test Automation                                                                         | QA engineer        |
